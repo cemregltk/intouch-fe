@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation'
-import { getBlogCategory, getBlogPosts } from '@/lib/payload/queries'
+// import { getBlogCategory, getBlogPosts } from '@/lib/payload/queries'
 import BlogList from '@/components/blog/BlogList'
 import { Metadata } from 'next'
 

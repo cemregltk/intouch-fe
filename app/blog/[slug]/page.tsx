@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation'
-import { getBlogPost, getBlogPosts, getSiteSettings } from '@/lib/payload/queries'
+// import { getBlogPost, getBlogPosts, getSiteSettings } from '@/lib/payload/queries'
 import { formatDate } from '@/lib/utils/format'
 import { ROUTES } from '@/lib/constants/routes'
 import Image from 'next/image'
